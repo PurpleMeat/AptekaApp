@@ -1,0 +1,847 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\x-ste\\source\\repos\\AppApteki\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1E88999F-C27C-448A-8751-495E246E7FAF}|AppApteki.csproj|c:\\users\\x-ste\\source\\repos\\appapteki\\zakaziform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E88999F-C27C-448A-8751-495E246E7FAF}|AppApteki.csproj|solutionrelative:zakaziform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E88999F-C27C-448A-8751-495E246E7FAF}|AppApteki.csproj|C:\\Users\\x-ste\\source\\repos\\AppApteki\\zakaziform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1E88999F-C27C-448A-8751-495E246E7FAF}|AppApteki.csproj|solutionrelative:zakaziform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E88999F-C27C-448A-8751-495E246E7FAF}|AppApteki.csproj|C:\\Users\\x-ste\\source\\repos\\AppApteki\\zakazclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E88999F-C27C-448A-8751-495E246E7FAF}|AppApteki.csproj|solutionrelative:zakazclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E88999F-C27C-448A-8751-495E246E7FAF}|AppApteki.csproj|C:\\Users\\x-ste\\source\\repos\\AppApteki\\zakazclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1E88999F-C27C-448A-8751-495E246E7FAF}|AppApteki.csproj|solutionrelative:zakazclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E88999F-C27C-448A-8751-495E246E7FAF}|AppApteki.csproj|C:\\Users\\x-ste\\source\\repos\\AppApteki\\tovariform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E88999F-C27C-448A-8751-495E246E7FAF}|AppApteki.csproj|solutionrelative:tovariform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E88999F-C27C-448A-8751-495E246E7FAF}|AppApteki.csproj|C:\\Users\\x-ste\\source\\repos\\AppApteki\\tovariform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1E88999F-C27C-448A-8751-495E246E7FAF}|AppApteki.csproj|solutionrelative:tovariform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E88999F-C27C-448A-8751-495E246E7FAF}|AppApteki.csproj|C:\\Users\\x-ste\\source\\repos\\AppApteki\\sotrudnikiform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E88999F-C27C-448A-8751-495E246E7FAF}|AppApteki.csproj|solutionrelative:sotrudnikiform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E88999F-C27C-448A-8751-495E246E7FAF}|AppApteki.csproj|C:\\Users\\x-ste\\source\\repos\\AppApteki\\sotrudnikiform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1E88999F-C27C-448A-8751-495E246E7FAF}|AppApteki.csproj|solutionrelative:sotrudnikiform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E88999F-C27C-448A-8751-495E246E7FAF}|AppApteki.csproj|C:\\Users\\x-ste\\source\\repos\\AppApteki\\scladiform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E88999F-C27C-448A-8751-495E246E7FAF}|AppApteki.csproj|solutionrelative:scladiform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E88999F-C27C-448A-8751-495E246E7FAF}|AppApteki.csproj|C:\\Users\\x-ste\\source\\repos\\AppApteki\\scladiform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1E88999F-C27C-448A-8751-495E246E7FAF}|AppApteki.csproj|solutionrelative:scladiform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E88999F-C27C-448A-8751-495E246E7FAF}|AppApteki.csproj|C:\\Users\\x-ste\\source\\repos\\AppApteki\\postavkiform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E88999F-C27C-448A-8751-495E246E7FAF}|AppApteki.csproj|solutionrelative:postavkiform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E88999F-C27C-448A-8751-495E246E7FAF}|AppApteki.csproj|C:\\Users\\x-ste\\source\\repos\\AppApteki\\postavkiform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1E88999F-C27C-448A-8751-495E246E7FAF}|AppApteki.csproj|solutionrelative:postavkiform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E88999F-C27C-448A-8751-495E246E7FAF}|AppApteki.csproj|C:\\Users\\x-ste\\source\\repos\\AppApteki\\postavchikiform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E88999F-C27C-448A-8751-495E246E7FAF}|AppApteki.csproj|solutionrelative:postavchikiform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E88999F-C27C-448A-8751-495E246E7FAF}|AppApteki.csproj|C:\\Users\\x-ste\\source\\repos\\AppApteki\\postavchikiform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1E88999F-C27C-448A-8751-495E246E7FAF}|AppApteki.csproj|solutionrelative:postavchikiform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E88999F-C27C-448A-8751-495E246E7FAF}|AppApteki.csproj|C:\\Users\\x-ste\\source\\repos\\AppApteki\\inputbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E88999F-C27C-448A-8751-495E246E7FAF}|AppApteki.csproj|solutionrelative:inputbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E88999F-C27C-448A-8751-495E246E7FAF}|AppApteki.csproj|C:\\Users\\x-ste\\source\\repos\\AppApteki\\inputbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1E88999F-C27C-448A-8751-495E246E7FAF}|AppApteki.csproj|solutionrelative:inputbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E88999F-C27C-448A-8751-495E246E7FAF}|AppApteki.csproj|C:\\Users\\x-ste\\source\\repos\\AppApteki\\formregist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E88999F-C27C-448A-8751-495E246E7FAF}|AppApteki.csproj|solutionrelative:formregist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E88999F-C27C-448A-8751-495E246E7FAF}|AppApteki.csproj|C:\\Users\\x-ste\\source\\repos\\AppApteki\\formregist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1E88999F-C27C-448A-8751-495E246E7FAF}|AppApteki.csproj|solutionrelative:formregist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E88999F-C27C-448A-8751-495E246E7FAF}|AppApteki.csproj|C:\\Users\\x-ste\\source\\repos\\AppApteki\\formprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E88999F-C27C-448A-8751-495E246E7FAF}|AppApteki.csproj|solutionrelative:formprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E88999F-C27C-448A-8751-495E246E7FAF}|AppApteki.csproj|C:\\Users\\x-ste\\source\\repos\\AppApteki\\formprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1E88999F-C27C-448A-8751-495E246E7FAF}|AppApteki.csproj|solutionrelative:formprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E88999F-C27C-448A-8751-495E246E7FAF}|AppApteki.csproj|C:\\Users\\x-ste\\source\\repos\\AppApteki\\formopisanie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E88999F-C27C-448A-8751-495E246E7FAF}|AppApteki.csproj|solutionrelative:formopisanie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E88999F-C27C-448A-8751-495E246E7FAF}|AppApteki.csproj|C:\\Users\\x-ste\\source\\repos\\AppApteki\\formopisanie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1E88999F-C27C-448A-8751-495E246E7FAF}|AppApteki.csproj|solutionrelative:formopisanie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E88999F-C27C-448A-8751-495E246E7FAF}|AppApteki.csproj|C:\\Users\\x-ste\\source\\repos\\AppApteki\\formkorzina.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E88999F-C27C-448A-8751-495E246E7FAF}|AppApteki.csproj|solutionrelative:formkorzina.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E88999F-C27C-448A-8751-495E246E7FAF}|AppApteki.csproj|C:\\Users\\x-ste\\source\\repos\\AppApteki\\formkorzina.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1E88999F-C27C-448A-8751-495E246E7FAF}|AppApteki.csproj|solutionrelative:formkorzina.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E88999F-C27C-448A-8751-495E246E7FAF}|AppApteki.csproj|C:\\Users\\x-ste\\source\\repos\\AppApteki\\formforclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E88999F-C27C-448A-8751-495E246E7FAF}|AppApteki.csproj|solutionrelative:formforclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E88999F-C27C-448A-8751-495E246E7FAF}|AppApteki.csproj|C:\\Users\\x-ste\\source\\repos\\AppApteki\\formforclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1E88999F-C27C-448A-8751-495E246E7FAF}|AppApteki.csproj|solutionrelative:formforclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E88999F-C27C-448A-8751-495E246E7FAF}|AppApteki.csproj|C:\\Users\\x-ste\\source\\repos\\AppApteki\\formdobavdelsotrudniki.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E88999F-C27C-448A-8751-495E246E7FAF}|AppApteki.csproj|solutionrelative:formdobavdelsotrudniki.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E88999F-C27C-448A-8751-495E246E7FAF}|AppApteki.csproj|C:\\Users\\x-ste\\source\\repos\\AppApteki\\formdobavdelsotrudniki.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1E88999F-C27C-448A-8751-495E246E7FAF}|AppApteki.csproj|solutionrelative:formdobavdelsotrudniki.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E88999F-C27C-448A-8751-495E246E7FAF}|AppApteki.csproj|C:\\Users\\x-ste\\source\\repos\\AppApteki\\formdobavchangetovar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E88999F-C27C-448A-8751-495E246E7FAF}|AppApteki.csproj|solutionrelative:formdobavchangetovar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E88999F-C27C-448A-8751-495E246E7FAF}|AppApteki.csproj|C:\\Users\\x-ste\\source\\repos\\AppApteki\\formdobavchangetovar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1E88999F-C27C-448A-8751-495E246E7FAF}|AppApteki.csproj|solutionrelative:formdobavchangetovar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E88999F-C27C-448A-8751-495E246E7FAF}|AppApteki.csproj|C:\\Users\\x-ste\\source\\repos\\AppApteki\\formdobavchangesclad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E88999F-C27C-448A-8751-495E246E7FAF}|AppApteki.csproj|solutionrelative:formdobavchangesclad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E88999F-C27C-448A-8751-495E246E7FAF}|AppApteki.csproj|C:\\Users\\x-ste\\source\\repos\\AppApteki\\formdobavchangesclad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1E88999F-C27C-448A-8751-495E246E7FAF}|AppApteki.csproj|solutionrelative:formdobavchangesclad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E88999F-C27C-448A-8751-495E246E7FAF}|AppApteki.csproj|C:\\Users\\x-ste\\source\\repos\\AppApteki\\formdobavchangepostavki.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E88999F-C27C-448A-8751-495E246E7FAF}|AppApteki.csproj|solutionrelative:formdobavchangepostavki.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E88999F-C27C-448A-8751-495E246E7FAF}|AppApteki.csproj|C:\\Users\\x-ste\\source\\repos\\AppApteki\\formdobavchangepostavki.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1E88999F-C27C-448A-8751-495E246E7FAF}|AppApteki.csproj|solutionrelative:formdobavchangepostavki.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E88999F-C27C-448A-8751-495E246E7FAF}|AppApteki.csproj|C:\\Users\\x-ste\\source\\repos\\AppApteki\\formdobavchangepostavchiki.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E88999F-C27C-448A-8751-495E246E7FAF}|AppApteki.csproj|solutionrelative:formdobavchangepostavchiki.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E88999F-C27C-448A-8751-495E246E7FAF}|AppApteki.csproj|C:\\Users\\x-ste\\source\\repos\\AppApteki\\formdobavchangepostavchiki.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1E88999F-C27C-448A-8751-495E246E7FAF}|AppApteki.csproj|solutionrelative:formdobavchangepostavchiki.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E88999F-C27C-448A-8751-495E246E7FAF}|AppApteki.csproj|C:\\Users\\x-ste\\source\\repos\\AppApteki\\formdobavchangedolj.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E88999F-C27C-448A-8751-495E246E7FAF}|AppApteki.csproj|solutionrelative:formdobavchangedolj.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E88999F-C27C-448A-8751-495E246E7FAF}|AppApteki.csproj|C:\\Users\\x-ste\\source\\repos\\AppApteki\\formdobavchangedolj.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1E88999F-C27C-448A-8751-495E246E7FAF}|AppApteki.csproj|solutionrelative:formdobavchangedolj.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E88999F-C27C-448A-8751-495E246E7FAF}|AppApteki.csproj|C:\\Users\\x-ste\\source\\repos\\AppApteki\\formdobavchangeclients.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E88999F-C27C-448A-8751-495E246E7FAF}|AppApteki.csproj|solutionrelative:formdobavchangeclients.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E88999F-C27C-448A-8751-495E246E7FAF}|AppApteki.csproj|C:\\Users\\x-ste\\source\\repos\\AppApteki\\formdobavchangeclients.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1E88999F-C27C-448A-8751-495E246E7FAF}|AppApteki.csproj|solutionrelative:formdobavchangeclients.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E88999F-C27C-448A-8751-495E246E7FAF}|AppApteki.csproj|C:\\Users\\x-ste\\source\\repos\\AppApteki\\formdobavchangeapteki.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E88999F-C27C-448A-8751-495E246E7FAF}|AppApteki.csproj|solutionrelative:formdobavchangeapteki.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E88999F-C27C-448A-8751-495E246E7FAF}|AppApteki.csproj|C:\\Users\\x-ste\\source\\repos\\AppApteki\\formdobavchangeapteki.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1E88999F-C27C-448A-8751-495E246E7FAF}|AppApteki.csproj|solutionrelative:formdobavchangeapteki.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E88999F-C27C-448A-8751-495E246E7FAF}|AppApteki.csproj|C:\\Users\\x-ste\\source\\repos\\AppApteki\\doljnostiform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E88999F-C27C-448A-8751-495E246E7FAF}|AppApteki.csproj|solutionrelative:doljnostiform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E88999F-C27C-448A-8751-495E246E7FAF}|AppApteki.csproj|C:\\Users\\x-ste\\source\\repos\\AppApteki\\doljnostiform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1E88999F-C27C-448A-8751-495E246E7FAF}|AppApteki.csproj|solutionrelative:doljnostiform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E88999F-C27C-448A-8751-495E246E7FAF}|AppApteki.csproj|C:\\Users\\x-ste\\source\\repos\\AppApteki\\clientsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E88999F-C27C-448A-8751-495E246E7FAF}|AppApteki.csproj|solutionrelative:clientsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E88999F-C27C-448A-8751-495E246E7FAF}|AppApteki.csproj|C:\\Users\\x-ste\\source\\repos\\AppApteki\\clientsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1E88999F-C27C-448A-8751-495E246E7FAF}|AppApteki.csproj|solutionrelative:clientsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E88999F-C27C-448A-8751-495E246E7FAF}|AppApteki.csproj|C:\\Users\\x-ste\\source\\repos\\AppApteki\\avtoriz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E88999F-C27C-448A-8751-495E246E7FAF}|AppApteki.csproj|solutionrelative:avtoriz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E88999F-C27C-448A-8751-495E246E7FAF}|AppApteki.csproj|C:\\Users\\x-ste\\source\\repos\\AppApteki\\avtoriz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1E88999F-C27C-448A-8751-495E246E7FAF}|AppApteki.csproj|solutionrelative:avtoriz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E88999F-C27C-448A-8751-495E246E7FAF}|AppApteki.csproj|C:\\Users\\x-ste\\source\\repos\\AppApteki\\aptekiform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E88999F-C27C-448A-8751-495E246E7FAF}|AppApteki.csproj|solutionrelative:aptekiform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E88999F-C27C-448A-8751-495E246E7FAF}|AppApteki.csproj|C:\\Users\\x-ste\\source\\repos\\AppApteki\\aptekiform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1E88999F-C27C-448A-8751-495E246E7FAF}|AppApteki.csproj|solutionrelative:aptekiform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E88999F-C27C-448A-8751-495E246E7FAF}|AppApteki.csproj|C:\\Users\\x-ste\\source\\repos\\AppApteki\\appteki2dataset.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}",
+      "RelativeMoniker": "D:0:0:{1E88999F-C27C-448A-8751-495E246E7FAF}|AppApteki.csproj|solutionrelative:appteki2dataset.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E88999F-C27C-448A-8751-495E246E7FAF}|AppApteki.csproj|C:\\Users\\x-ste\\source\\repos\\AppApteki\\constring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E88999F-C27C-448A-8751-495E246E7FAF}|AppApteki.csproj|solutionrelative:constring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E88999F-C27C-448A-8751-495E246E7FAF}|AppApteki.csproj|C:\\Users\\x-ste\\source\\repos\\AppApteki\\persinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E88999F-C27C-448A-8751-495E246E7FAF}|AppApteki.csproj|solutionrelative:persinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ZakaziForm.cs",
+              "DocumentMoniker": "C:\\Users\\x-ste\\source\\repos\\AppApteki\\ZakaziForm.cs",
+              "RelativeDocumentMoniker": "ZakaziForm.cs",
+              "ToolTip": "C:\\Users\\x-ste\\source\\repos\\AppApteki\\ZakaziForm.cs",
+              "RelativeToolTip": "ZakaziForm.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T15:13:01.967Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ZakaziForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\x-ste\\source\\repos\\AppApteki\\ZakaziForm.cs",
+              "RelativeDocumentMoniker": "ZakaziForm.cs",
+              "ToolTip": "C:\\Users\\x-ste\\source\\repos\\AppApteki\\ZakaziForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "ZakaziForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T15:12:59.438Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ZakazClient.cs",
+              "DocumentMoniker": "C:\\Users\\x-ste\\source\\repos\\AppApteki\\ZakazClient.cs",
+              "RelativeDocumentMoniker": "ZakazClient.cs",
+              "ToolTip": "C:\\Users\\x-ste\\source\\repos\\AppApteki\\ZakazClient.cs",
+              "RelativeToolTip": "ZakazClient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T15:12:51.92Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ZakazClient.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\x-ste\\source\\repos\\AppApteki\\ZakazClient.cs",
+              "RelativeDocumentMoniker": "ZakazClient.cs",
+              "ToolTip": "C:\\Users\\x-ste\\source\\repos\\AppApteki\\ZakazClient.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "ZakazClient.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T15:12:49.667Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TovariForm.cs",
+              "DocumentMoniker": "C:\\Users\\x-ste\\source\\repos\\AppApteki\\TovariForm.cs",
+              "RelativeDocumentMoniker": "TovariForm.cs",
+              "ToolTip": "C:\\Users\\x-ste\\source\\repos\\AppApteki\\TovariForm.cs",
+              "RelativeToolTip": "TovariForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T15:12:44.34Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TovariForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\x-ste\\source\\repos\\AppApteki\\TovariForm.cs",
+              "RelativeDocumentMoniker": "TovariForm.cs",
+              "ToolTip": "C:\\Users\\x-ste\\source\\repos\\AppApteki\\TovariForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "TovariForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T15:12:40.845Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SotrudnikiForm.cs",
+              "DocumentMoniker": "C:\\Users\\x-ste\\source\\repos\\AppApteki\\SotrudnikiForm.cs",
+              "RelativeDocumentMoniker": "SotrudnikiForm.cs",
+              "ToolTip": "C:\\Users\\x-ste\\source\\repos\\AppApteki\\SotrudnikiForm.cs",
+              "RelativeToolTip": "SotrudnikiForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T15:12:36.019Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SotrudnikiForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\x-ste\\source\\repos\\AppApteki\\SotrudnikiForm.cs",
+              "RelativeDocumentMoniker": "SotrudnikiForm.cs",
+              "ToolTip": "C:\\Users\\x-ste\\source\\repos\\AppApteki\\SotrudnikiForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "SotrudnikiForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T15:12:33.727Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ScladiForm.cs",
+              "DocumentMoniker": "C:\\Users\\x-ste\\source\\repos\\AppApteki\\ScladiForm.cs",
+              "RelativeDocumentMoniker": "ScladiForm.cs",
+              "ToolTip": "C:\\Users\\x-ste\\source\\repos\\AppApteki\\ScladiForm.cs",
+              "RelativeToolTip": "ScladiForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T15:12:20.808Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ScladiForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\x-ste\\source\\repos\\AppApteki\\ScladiForm.cs",
+              "RelativeDocumentMoniker": "ScladiForm.cs",
+              "ToolTip": "C:\\Users\\x-ste\\source\\repos\\AppApteki\\ScladiForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "ScladiForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T15:12:17.816Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PostavkiForm.cs",
+              "DocumentMoniker": "C:\\Users\\x-ste\\source\\repos\\AppApteki\\PostavkiForm.cs",
+              "RelativeDocumentMoniker": "PostavkiForm.cs",
+              "ToolTip": "C:\\Users\\x-ste\\source\\repos\\AppApteki\\PostavkiForm.cs",
+              "RelativeToolTip": "PostavkiForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T15:12:12.317Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PostavkiForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\x-ste\\source\\repos\\AppApteki\\PostavkiForm.cs",
+              "RelativeDocumentMoniker": "PostavkiForm.cs",
+              "ToolTip": "C:\\Users\\x-ste\\source\\repos\\AppApteki\\PostavkiForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "PostavkiForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T15:12:09.693Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PostavchikiForm.cs",
+              "DocumentMoniker": "C:\\Users\\x-ste\\source\\repos\\AppApteki\\PostavchikiForm.cs",
+              "RelativeDocumentMoniker": "PostavchikiForm.cs",
+              "ToolTip": "C:\\Users\\x-ste\\source\\repos\\AppApteki\\PostavchikiForm.cs",
+              "RelativeToolTip": "PostavchikiForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T15:11:55.85Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "PostavchikiForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\x-ste\\source\\repos\\AppApteki\\PostavchikiForm.cs",
+              "RelativeDocumentMoniker": "PostavchikiForm.cs",
+              "ToolTip": "C:\\Users\\x-ste\\source\\repos\\AppApteki\\PostavchikiForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "PostavchikiForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T15:11:52.886Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "InputBox.cs",
+              "DocumentMoniker": "C:\\Users\\x-ste\\source\\repos\\AppApteki\\InputBox.cs",
+              "RelativeDocumentMoniker": "InputBox.cs",
+              "ToolTip": "C:\\Users\\x-ste\\source\\repos\\AppApteki\\InputBox.cs",
+              "RelativeToolTip": "InputBox.cs",
+              "ViewState": "AgIAAHcAAAAAAAAAAAAwwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T15:11:48.391Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "InputBox.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\x-ste\\source\\repos\\AppApteki\\InputBox.cs",
+              "RelativeDocumentMoniker": "InputBox.cs",
+              "ToolTip": "C:\\Users\\x-ste\\source\\repos\\AppApteki\\InputBox.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "InputBox.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T15:11:43.175Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "FormRegist.cs",
+              "DocumentMoniker": "C:\\Users\\x-ste\\source\\repos\\AppApteki\\FormRegist.cs",
+              "RelativeDocumentMoniker": "FormRegist.cs",
+              "ToolTip": "C:\\Users\\x-ste\\source\\repos\\AppApteki\\FormRegist.cs",
+              "RelativeToolTip": "FormRegist.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T15:11:38.279Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "FormRegist.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\x-ste\\source\\repos\\AppApteki\\FormRegist.cs",
+              "RelativeDocumentMoniker": "FormRegist.cs",
+              "ToolTip": "C:\\Users\\x-ste\\source\\repos\\AppApteki\\FormRegist.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "FormRegist.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T15:11:35.689Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "FormProfile.cs",
+              "DocumentMoniker": "C:\\Users\\x-ste\\source\\repos\\AppApteki\\FormProfile.cs",
+              "RelativeDocumentMoniker": "FormProfile.cs",
+              "ToolTip": "C:\\Users\\x-ste\\source\\repos\\AppApteki\\FormProfile.cs",
+              "RelativeToolTip": "FormProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T15:11:24.288Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "FormProfile.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\x-ste\\source\\repos\\AppApteki\\FormProfile.cs",
+              "RelativeDocumentMoniker": "FormProfile.cs",
+              "ToolTip": "C:\\Users\\x-ste\\source\\repos\\AppApteki\\FormProfile.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "FormProfile.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T15:11:20.892Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "FormOpisanie.cs",
+              "DocumentMoniker": "C:\\Users\\x-ste\\source\\repos\\AppApteki\\FormOpisanie.cs",
+              "RelativeDocumentMoniker": "FormOpisanie.cs",
+              "ToolTip": "C:\\Users\\x-ste\\source\\repos\\AppApteki\\FormOpisanie.cs",
+              "RelativeToolTip": "FormOpisanie.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T15:11:13.368Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "FormOpisanie.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\x-ste\\source\\repos\\AppApteki\\FormOpisanie.cs",
+              "RelativeDocumentMoniker": "FormOpisanie.cs",
+              "ToolTip": "C:\\Users\\x-ste\\source\\repos\\AppApteki\\FormOpisanie.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "FormOpisanie.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T15:11:11Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "FormKorzina.cs",
+              "DocumentMoniker": "C:\\Users\\x-ste\\source\\repos\\AppApteki\\FormKorzina.cs",
+              "RelativeDocumentMoniker": "FormKorzina.cs",
+              "ToolTip": "C:\\Users\\x-ste\\source\\repos\\AppApteki\\FormKorzina.cs",
+              "RelativeToolTip": "FormKorzina.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T15:10:56.326Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "FormKorzina.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\x-ste\\source\\repos\\AppApteki\\FormKorzina.cs",
+              "RelativeDocumentMoniker": "FormKorzina.cs",
+              "ToolTip": "C:\\Users\\x-ste\\source\\repos\\AppApteki\\FormKorzina.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "FormKorzina.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T15:10:53.379Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "FormForClient.cs",
+              "DocumentMoniker": "C:\\Users\\x-ste\\source\\repos\\AppApteki\\FormForClient.cs",
+              "RelativeDocumentMoniker": "FormForClient.cs",
+              "ToolTip": "C:\\Users\\x-ste\\source\\repos\\AppApteki\\FormForClient.cs",
+              "RelativeToolTip": "FormForClient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T15:10:37.93Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "FormForClient.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\x-ste\\source\\repos\\AppApteki\\FormForClient.cs",
+              "RelativeDocumentMoniker": "FormForClient.cs",
+              "ToolTip": "C:\\Users\\x-ste\\source\\repos\\AppApteki\\FormForClient.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "FormForClient.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T15:10:35.54Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "FormDobavDelSotrudniki.cs",
+              "DocumentMoniker": "C:\\Users\\x-ste\\source\\repos\\AppApteki\\FormDobavDelSotrudniki.cs",
+              "RelativeDocumentMoniker": "FormDobavDelSotrudniki.cs",
+              "ToolTip": "C:\\Users\\x-ste\\source\\repos\\AppApteki\\FormDobavDelSotrudniki.cs",
+              "RelativeToolTip": "FormDobavDelSotrudniki.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T15:10:15.219Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "FormDobavDelSotrudniki.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\x-ste\\source\\repos\\AppApteki\\FormDobavDelSotrudniki.cs",
+              "RelativeDocumentMoniker": "FormDobavDelSotrudniki.cs",
+              "ToolTip": "C:\\Users\\x-ste\\source\\repos\\AppApteki\\FormDobavDelSotrudniki.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "FormDobavDelSotrudniki.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T15:10:12.781Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "FormDobavChangeTovar.cs",
+              "DocumentMoniker": "C:\\Users\\x-ste\\source\\repos\\AppApteki\\FormDobavChangeTovar.cs",
+              "RelativeDocumentMoniker": "FormDobavChangeTovar.cs",
+              "ToolTip": "C:\\Users\\x-ste\\source\\repos\\AppApteki\\FormDobavChangeTovar.cs",
+              "RelativeToolTip": "FormDobavChangeTovar.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T15:10:08.604Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "FormDobavChangeTovar.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\x-ste\\source\\repos\\AppApteki\\FormDobavChangeTovar.cs",
+              "RelativeDocumentMoniker": "FormDobavChangeTovar.cs",
+              "ToolTip": "C:\\Users\\x-ste\\source\\repos\\AppApteki\\FormDobavChangeTovar.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "FormDobavChangeTovar.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T15:10:05.025Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "FormDobavChangeSclad.cs",
+              "DocumentMoniker": "C:\\Users\\x-ste\\source\\repos\\AppApteki\\FormDobavChangeSclad.cs",
+              "RelativeDocumentMoniker": "FormDobavChangeSclad.cs",
+              "ToolTip": "C:\\Users\\x-ste\\source\\repos\\AppApteki\\FormDobavChangeSclad.cs",
+              "RelativeToolTip": "FormDobavChangeSclad.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T15:10:00.768Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "FormDobavChangeSclad.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\x-ste\\source\\repos\\AppApteki\\FormDobavChangeSclad.cs",
+              "RelativeDocumentMoniker": "FormDobavChangeSclad.cs",
+              "ToolTip": "C:\\Users\\x-ste\\source\\repos\\AppApteki\\FormDobavChangeSclad.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "FormDobavChangeSclad.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T15:09:57.86Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "FormDobavChangePostavki.cs",
+              "DocumentMoniker": "C:\\Users\\x-ste\\source\\repos\\AppApteki\\FormDobavChangePostavki.cs",
+              "RelativeDocumentMoniker": "FormDobavChangePostavki.cs",
+              "ToolTip": "C:\\Users\\x-ste\\source\\repos\\AppApteki\\FormDobavChangePostavki.cs",
+              "RelativeToolTip": "FormDobavChangePostavki.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T15:09:51.45Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "FormDobavChangePostavki.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\x-ste\\source\\repos\\AppApteki\\FormDobavChangePostavki.cs",
+              "RelativeDocumentMoniker": "FormDobavChangePostavki.cs",
+              "ToolTip": "C:\\Users\\x-ste\\source\\repos\\AppApteki\\FormDobavChangePostavki.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "FormDobavChangePostavki.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T15:09:47.477Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "FormDobavChangePostavchiki.cs",
+              "DocumentMoniker": "C:\\Users\\x-ste\\source\\repos\\AppApteki\\FormDobavChangePostavchiki.cs",
+              "RelativeDocumentMoniker": "FormDobavChangePostavchiki.cs",
+              "ToolTip": "C:\\Users\\x-ste\\source\\repos\\AppApteki\\FormDobavChangePostavchiki.cs",
+              "RelativeToolTip": "FormDobavChangePostavchiki.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T15:09:43.314Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "FormDobavChangePostavchiki.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\x-ste\\source\\repos\\AppApteki\\FormDobavChangePostavchiki.cs",
+              "RelativeDocumentMoniker": "FormDobavChangePostavchiki.cs",
+              "ToolTip": "C:\\Users\\x-ste\\source\\repos\\AppApteki\\FormDobavChangePostavchiki.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "FormDobavChangePostavchiki.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T15:09:40.352Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "FormDobavChangeDolj.cs",
+              "DocumentMoniker": "C:\\Users\\x-ste\\source\\repos\\AppApteki\\FormDobavChangeDolj.cs",
+              "RelativeDocumentMoniker": "FormDobavChangeDolj.cs",
+              "ToolTip": "C:\\Users\\x-ste\\source\\repos\\AppApteki\\FormDobavChangeDolj.cs",
+              "RelativeToolTip": "FormDobavChangeDolj.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T15:09:36.095Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "FormDobavChangeDolj.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\x-ste\\source\\repos\\AppApteki\\FormDobavChangeDolj.cs",
+              "RelativeDocumentMoniker": "FormDobavChangeDolj.cs",
+              "ToolTip": "C:\\Users\\x-ste\\source\\repos\\AppApteki\\FormDobavChangeDolj.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "FormDobavChangeDolj.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T15:09:33.673Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "FormDobavChangeClients.cs",
+              "DocumentMoniker": "C:\\Users\\x-ste\\source\\repos\\AppApteki\\FormDobavChangeClients.cs",
+              "RelativeDocumentMoniker": "FormDobavChangeClients.cs",
+              "ToolTip": "C:\\Users\\x-ste\\source\\repos\\AppApteki\\FormDobavChangeClients.cs",
+              "RelativeToolTip": "FormDobavChangeClients.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T15:09:29.433Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "FormDobavChangeClients.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\x-ste\\source\\repos\\AppApteki\\FormDobavChangeClients.cs",
+              "RelativeDocumentMoniker": "FormDobavChangeClients.cs",
+              "ToolTip": "C:\\Users\\x-ste\\source\\repos\\AppApteki\\FormDobavChangeClients.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "FormDobavChangeClients.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T15:09:25.489Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "FormDobavChangeApteki.cs",
+              "DocumentMoniker": "C:\\Users\\x-ste\\source\\repos\\AppApteki\\FormDobavChangeApteki.cs",
+              "RelativeDocumentMoniker": "FormDobavChangeApteki.cs",
+              "ToolTip": "C:\\Users\\x-ste\\source\\repos\\AppApteki\\FormDobavChangeApteki.cs",
+              "RelativeToolTip": "FormDobavChangeApteki.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T15:09:12.173Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "FormDobavChangeApteki.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\x-ste\\source\\repos\\AppApteki\\FormDobavChangeApteki.cs",
+              "RelativeDocumentMoniker": "FormDobavChangeApteki.cs",
+              "ToolTip": "C:\\Users\\x-ste\\source\\repos\\AppApteki\\FormDobavChangeApteki.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "FormDobavChangeApteki.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T15:09:09.544Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "DoljnostiForm.cs",
+              "DocumentMoniker": "C:\\Users\\x-ste\\source\\repos\\AppApteki\\DoljnostiForm.cs",
+              "RelativeDocumentMoniker": "DoljnostiForm.cs",
+              "ToolTip": "C:\\Users\\x-ste\\source\\repos\\AppApteki\\DoljnostiForm.cs",
+              "RelativeToolTip": "DoljnostiForm.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwBQAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T15:08:55.364Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "DoljnostiForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\x-ste\\source\\repos\\AppApteki\\DoljnostiForm.cs",
+              "RelativeDocumentMoniker": "DoljnostiForm.cs",
+              "ToolTip": "C:\\Users\\x-ste\\source\\repos\\AppApteki\\DoljnostiForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "DoljnostiForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T15:08:52.081Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "ClientsForm.cs",
+              "DocumentMoniker": "C:\\Users\\x-ste\\source\\repos\\AppApteki\\ClientsForm.cs",
+              "RelativeDocumentMoniker": "ClientsForm.cs",
+              "ToolTip": "C:\\Users\\x-ste\\source\\repos\\AppApteki\\ClientsForm.cs",
+              "RelativeToolTip": "ClientsForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T15:08:39.734Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "ClientsForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\x-ste\\source\\repos\\AppApteki\\ClientsForm.cs",
+              "RelativeDocumentMoniker": "ClientsForm.cs",
+              "ToolTip": "C:\\Users\\x-ste\\source\\repos\\AppApteki\\ClientsForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "ClientsForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T15:08:37.228Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "Avtoriz.cs",
+              "DocumentMoniker": "C:\\Users\\x-ste\\source\\repos\\AppApteki\\Avtoriz.cs",
+              "RelativeDocumentMoniker": "Avtoriz.cs",
+              "ToolTip": "C:\\Users\\x-ste\\source\\repos\\AppApteki\\Avtoriz.cs",
+              "RelativeToolTip": "Avtoriz.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwBoAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T15:07:14.745Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "Avtoriz.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\x-ste\\source\\repos\\AppApteki\\Avtoriz.cs",
+              "RelativeDocumentMoniker": "Avtoriz.cs",
+              "ToolTip": "C:\\Users\\x-ste\\source\\repos\\AppApteki\\Avtoriz.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "Avtoriz.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T15:07:11.06Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "Appteki2DataSet.xsd",
+              "DocumentMoniker": "C:\\Users\\x-ste\\source\\repos\\AppApteki\\Appteki2DataSet.xsd",
+              "RelativeDocumentMoniker": "Appteki2DataSet.xsd",
+              "ToolTip": "C:\\Users\\x-ste\\source\\repos\\AppApteki\\Appteki2DataSet.xsd",
+              "RelativeToolTip": "Appteki2DataSet.xsd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003579|",
+              "WhenOpened": "2024-09-09T15:06:01.123Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "PersInfo.cs",
+              "DocumentMoniker": "C:\\Users\\x-ste\\source\\repos\\AppApteki\\PersInfo.cs",
+              "RelativeDocumentMoniker": "PersInfo.cs",
+              "ToolTip": "C:\\Users\\x-ste\\source\\repos\\AppApteki\\PersInfo.cs",
+              "RelativeToolTip": "PersInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T15:05:42.691Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "ConString.cs",
+              "DocumentMoniker": "C:\\Users\\x-ste\\source\\repos\\AppApteki\\ConString.cs",
+              "RelativeDocumentMoniker": "ConString.cs",
+              "ToolTip": "C:\\Users\\x-ste\\source\\repos\\AppApteki\\ConString.cs",
+              "RelativeToolTip": "ConString.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T15:04:00.279Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "AptekiForm.cs",
+              "DocumentMoniker": "C:\\Users\\x-ste\\source\\repos\\AppApteki\\AptekiForm.cs",
+              "RelativeDocumentMoniker": "AptekiForm.cs",
+              "ToolTip": "C:\\Users\\x-ste\\source\\repos\\AppApteki\\AptekiForm.cs",
+              "RelativeToolTip": "AptekiForm.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABUAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T15:02:10.666Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "AptekiForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\x-ste\\source\\repos\\AppApteki\\AptekiForm.cs",
+              "RelativeDocumentMoniker": "AptekiForm.cs",
+              "ToolTip": "C:\\Users\\x-ste\\source\\repos\\AppApteki\\AptekiForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "AptekiForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T15:02:06.261Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
